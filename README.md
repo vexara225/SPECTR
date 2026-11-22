@@ -25,10 +25,10 @@
 
 
 Технологический стек:
-Python - основной язык
-Telebot - Telegram-бот
-Telethon - работа с Telegram API
-Paywright - автоматизация браузера
-BeautifulSoup - обработка веб-страниц
-aiohttp - HTTP-запросы
-PostgreSQL - база данных
+- Python - основной язык
+- Telebot - Telegram-бот
+- Telethon - работа с Telegram API
+- Paywright - автоматизация браузера
+- BeautifulSoup - обработка веб-страниц
+- aiohttp - HTTP-запросы
+- PostgreSQL - база данных
